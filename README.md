@@ -9,7 +9,7 @@ So you can run this any platform that runs python.
 
 TODO:
 
-Add ability to kink discord accounts since it's one of the most popular and the one that i am familiar with.
+Add ability to link discord accounts since it's one of the most popular and the one that i am familiar with.
 
 Research about non-bot accunt automation and TOS.
 
